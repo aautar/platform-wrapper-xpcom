@@ -1,0 +1,9 @@
+{
+  "name": "platform-wrapper-xpcom",
+  "version": "1.0.0",
+  "description": "Library wrapping XPCOM methods for use by XUL-based desktop applications",
+  "main": "lib/Platfom.js",
+  "repository": "https://github.com/aautar/platform-wrapper-xpcom.git",
+  "author": "Avishkar Autar <aautar@digital-radiation.com>",
+  "license": "MIT"
+}
